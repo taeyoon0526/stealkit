@@ -1,0 +1,20 @@
+{
+  "author": [
+    "Ferox"
+  ],
+  "name": "StealKit",
+  "short": "CDN 기반 이모지/스티커 복사",
+  "description": "Discord CDN에서 파일을 받아 현재 서버에 새 커스텀 이모지 또는 스티커로 생성하는 Red-DiscordBot Cog입니다.",
+  "install_msg": "StealKit 설치가 완료되었습니다. `[p]load stealkit` 후 `[p]steal emoji <이모지|ID...>` 또는 `[p]steal sticker`를 사용하세요.",
+  "end_user_data_statement": "This cog stores guild-level configuration only and keeps temporary sticker wait sessions in memory.",
+  "min_bot_version": "3.5.0",
+  "requirements": [
+    "aiohttp"
+  ],
+  "tags": [
+    "emoji",
+    "sticker",
+    "components-v2"
+  ],
+  "type": "COG"
+}
